@@ -21,7 +21,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=80&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&height=200&lines=GOTAR-XMD;VERSION+2025;BY+GOTAR+TECH" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=1D57F7&background=EF63FF00&width=435&lines=LOUIZA)](https://git.io/typing-svg" />
   </a>
 </p>
   
